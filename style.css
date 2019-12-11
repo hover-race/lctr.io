@@ -24,7 +24,8 @@
 }
 
 #mapid {
-    height: 380px;
+    height: 100%;
+    min-height: 200px;
     width: 100%;
     border: 1px solid black;
 }
